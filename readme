@@ -1,0 +1,32 @@
+Creacion de una DAPP.
+
+Plataforma para aprender a programar. "Youtube" interactivo, donde los creadores de contenido 
+reciben tokens por volumen de plays y prestigio (aparecer en las primeras posiciones) por 
+tener las mejores votaciones.
+
+
+    1: Definir proyecto
+    2: Definir en que blockchain construir (MINA)
+    3: Definir Tokenomics
+    4: Estandar de token --> ERC20
+
+
+1: PLataforma donde los creadores de contenido recibiran una recompensa por subir contenido. Habrá diferentes secciones sobre diferentes lenguajes de programación, a mayor aportacion, mayor recompensa en tokens. 
+Los usuarios reciben una pequeña compensación por valorar, votar y comentar los cursos.
+El reguard seria en el token de la plataforma y se podria estakear.
+
+2: Intentaria construir en la blockchain de MINA, me parece un proyecto muy solido, con una blockchain
+que aplica las zkRollups
+
+    ···Interested in contributing to Mina's protocol and building decentralized apps that use SNARKs to verify off-chain data with full verifiability, privacy and scaling?...
+
+3:TOKENOMICS:
+    .Team: 8%
+    .ICO/Private Sales: 5%
+    .Investors: 10%
+    .Staking rewards: 18%
+    .Comunity: 50%
+    .Burning Tokens: 9%
+
+4: ERC20 ya que es el token por excelencia.
+
